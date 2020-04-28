@@ -23,6 +23,7 @@ html {
     position: absolute;
     top: 190px;
     right: 55%;
+    transform: rotate(0.5turn);
   }
 }
 /* Write your solution here */
