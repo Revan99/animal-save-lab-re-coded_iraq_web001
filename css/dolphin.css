@@ -18,6 +18,12 @@ html {
   right: 55%;
 }
 
-
+@media screen and (max-width: 1170px) and (min-width: 406px){
+  #dolphin {
+    position: absolute;
+    top: 190px;
+    right: 55%;
+  }
+}
 /* Write your solution here */
 
